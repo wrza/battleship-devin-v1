@@ -10,3 +10,5 @@ pnpm-debug.log*
 .vscode/
 *.swp
 *.swo
+debug/core.mjs
+debug/core_old.mjs
